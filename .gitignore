@@ -1,2 +1,6 @@
 echidna/
 out/
+corpus/
+crytic-export/
+echidna/
+lib/
